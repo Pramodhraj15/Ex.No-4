@@ -1,4 +1,4 @@
-# MAD-EXP-4-To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
+# EXP-4-To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 ## AIM:
 
@@ -204,11 +204,8 @@ public class MainActivity2 extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/Siddarthan999/MAD-EXP-4-Finding-Factorial-of-a-Number-using-Explicit-Intents/assets/91734840/823933f2-eceb-4b50-b492-ea3e7fd50921)
-
-![image](https://github.com/Siddarthan999/MAD-EXP-4-Finding-Factorial-of-a-Number-using-Explicit-Intents/assets/91734840/a5f71b7c-7fcf-4ef3-8abb-5a187ccf0f95)
-
-![image](https://github.com/Siddarthan999/MAD-EXP-4-Finding-Factorial-of-a-Number-using-Explicit-Intents/assets/91734840/3a108cca-2820-418c-a4e2-ebefa6ade5f0)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-4-mad/assets/143045415/7a05e7c3-6791-4d5d-8423-d22de83db150)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-4-mad/assets/143045415/5aec67cb-db05-4706-8a8e-6338b67b980d)
 
 ## RESULT
 Thus, a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
